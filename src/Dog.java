@@ -14,7 +14,7 @@ public class Dog {
     }
 
     public void bark() {
-        System.out.println("Hau! Hau!");
+        System.out.println(name + "szczeka: hau, hau!");
     }
 
     public String toString() {

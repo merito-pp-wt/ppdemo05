@@ -10,10 +10,25 @@ public class Main {
         // Wyświetlamy obiekt pies. Java po cichu wywołuje funkcję toString()
         System.out.println(d);
 
+        // Nasz pies szczeka
+        d.bark();
+
         // Zmieniamy imię psa
         d.setName("Reksio");
 
         // Wyświetlamy ponownie ten sam obiekt. Porównaj wynik na ekranie.
         System.out.println(d);
+
+        // Cat c = new Cat("Ola");
+
+        // System.out.println("To jest kot " + c.getName();
+
+        // System.out.println(c);
+
+        // c.meow();
+
+        // c.setName("Filomena");
+
+        // System.out.println(c);
     }
 }
