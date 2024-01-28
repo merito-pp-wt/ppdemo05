@@ -21,7 +21,7 @@ public class Main {
 
         // Cat c = new Cat("Ola");
 
-        // System.out.println("To jest kot " + c.getName();
+        // System.out.println("To jest kot " + c.getName());
 
         // System.out.println(c);
 
