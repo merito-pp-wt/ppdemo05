@@ -18,6 +18,6 @@ public class Dog {
     }
 
     public String toString() {
-        return "Jestem " + name + "!";
+        return "Jestem pies " + name + "!";
     }
 }
